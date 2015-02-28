@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lib</string>
+    <string name="process_tip">loading...</string>
+</resources>
